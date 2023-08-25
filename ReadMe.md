@@ -8,7 +8,7 @@ I am a senior Full-stack developer. Most of my clients have been with me from th
 ![](https://github-readme-stats.vercel.app/api?username=lee-1980&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lee-1980&theme=react&hide_border=false)<br/>
 
-
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lee-1980&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=lee-1980&icon=0&color=0)](https://visitcount.itsvg.in)
 
