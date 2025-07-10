@@ -7,8 +7,8 @@ I architect and scale high-performance web applications & AI-driven systems usin
 # 📊 GitHub Stats:
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denysp1994&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=lee-1980&theme=react&hide_border=false)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=jayvorio&theme=react&hide_border=false)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=lee-1980&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jayvorio&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
